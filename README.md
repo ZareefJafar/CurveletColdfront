@@ -40,8 +40,8 @@ Open bashrc to set these required environment variables:
 ```
 nano ~/.bashrc
 ```
-Copy and paste following ```export......``` lines and edit according to your FDCT and FFTW directory.
-FDCT: folder where your CurveLab installation is
+Copy and paste following ```export......``` lines and edit according to your FDCT and FFTW directory.\
+FDCT: folder where your CurveLab installation is\
 FFTW: folder where your fftw installation is
 ```
 export FDCT="/home/user/opt/CurveLab-2.1.3"
