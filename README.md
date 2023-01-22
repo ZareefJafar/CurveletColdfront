@@ -26,7 +26,7 @@ sudo make install
 ```
 
 ### CurveLab
-Go inside the CurveLab directory. In makefile.opt,set FFTW_DIR to be the path in which FFTW 2.1.5 is installed. From above example:\
+Go inside the CurveLab directory. In ```makefile.opt``` file, set FFTW_DIR to be the path in which FFTW 2.1.5 is installed. From above example:\
 FFTW_DIR = 	/home/user/opt/fftw-2.1.5
 
 Install CurveLab: 
