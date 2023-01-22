@@ -3,7 +3,7 @@ Python implementation for detecting coldfront from xray maps
 
 Installing curvelops requires the following external components:
 
-[FFTW](http://www.fftw.org/download.html) 2.1.5
+[FFTW](http://www.fftw.org/download.html) 2.1.5\
 [CurveLab](http://curvelet.org/software.html) >= 2.0.2
 
 Download both of them from the given links into the directory of your choice, and expand it with
