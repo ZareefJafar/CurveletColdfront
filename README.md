@@ -57,7 +57,7 @@ python3 -m pip install git+https://github.com/PyLops/curvelops@0.21
 
 ### Getting Started
 
-try [these](https://github.com/PyLops/curvelops/tree/main/examples) sample notebooks. Jupyter kernal keeps dying. Try running them in a seperate conda environment: 
+try [these](https://github.com/PyLops/curvelops/tree/main/examples) sample notebooks. If Jupyter kernal keeps dying, try running them in a seperate conda environment: 
 ```
 conda create -n curve numpy matplotlib scipy 
 ```
