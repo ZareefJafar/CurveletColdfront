@@ -67,6 +67,6 @@ Add your virtual environment to Jupyter lab/notebook:
 python -m ipykernel install --user --name=curve
 ```
 
-run notebooks by choosing created ```curve``` as the kernel 
+run notebooks by choosing created ```curve``` kernel 
 
 
